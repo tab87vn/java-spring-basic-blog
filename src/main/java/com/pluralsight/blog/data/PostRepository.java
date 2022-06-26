@@ -43,7 +43,7 @@ public class PostRepository {
                "When a stranger passes us a top secret SD card the adventure begins.  Jason Bourne says, \"Hi\".",
                "When a stranger passes us a top secret SD card the adventure begins.  Jason Bourne says, \"Hi\".",
                "Sarah Holderness", new Date())
-));
+   ));
 
 
     public List<Post> getAllPosts() {
